@@ -1,5 +1,5 @@
-import { InsuranceProvider } from './context/InsuranceProvider'
-import AppInsurance from './components/AppInsurance'
+import { InsuranceProvider } from '../context/InsuranceProvider'
+import AppInsurance from '../components/AppInsurance'
 
 const App = () => {
   return (
